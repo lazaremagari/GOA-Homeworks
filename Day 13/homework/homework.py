@@ -1,0 +1,11 @@
+print("True And True")
+print("True And False")
+print("False And True")
+print("False And False")
+
+print("")
+print("")
+print("True or True")
+print("True or False")
+print("False or True")
+print("False or False")
