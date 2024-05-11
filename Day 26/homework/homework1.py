@@ -1,5 +1,5 @@
 password = input("enter password: ")
-if password == "blablabla123":
-    print("Access Granted")
+if password == "goa best":
+    print("Congratulations!")
 else:
     print("Incorrect password")
