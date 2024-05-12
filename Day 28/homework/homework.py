@@ -5,4 +5,5 @@ elif windows == "Windows 8":
     print("no, Upgrade it!")
 elif windows == "Windows 10":
     print("yeah that's best windows!")
-else("so bad!!")
+else:
+    ("so bad!!")
