@@ -1,0 +1,11 @@
+even_nums = [2, 4, 6, 8]
+even_nums.append(1)
+even_nums.append(3)
+even_nums.append(5)
+even_nums.append(7)
+even_nums.append(9)
+even_nums.append(17)
+even_nums.append(21)
+even_nums.append(29)
+even_nums.append(33)
+even_nums.append(25)

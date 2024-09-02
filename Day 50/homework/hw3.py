@@ -1,0 +1,12 @@
+num_list = [7, 13, 9, 3, 5]
+num_list.append(2)
+num_list.append(4)
+num_list.append(6)
+num_list.append(8)
+num_list.append(10)
+num_list.append(12)
+num_list.append(14)
+num_list.append(24)
+num_list.append(26)
+num_list.append(28)
+print(num_list)
