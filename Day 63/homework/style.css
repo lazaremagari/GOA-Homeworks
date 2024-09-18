@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+p{
+    font-size: 60px;
+    height: 150px;
+    width: 700;
+}
+button{
+    font-size: 30px;
+    width: 200px;
+    height: 150px;
+}
+#p1{
+    color: brown;
+    background-color: beige;
+}
+#p2{
+    color: crimson;
+    background-color: hotpink;
+}
+#p3{
+    color: darkgrey;
+    background-color: gray;
+}
+#p4{
+    color: darkgoldenrod;
+    background-color: blue;
+}
+#p5{
+    color: indigo;
+    background-color: magenta;
+}
+#img1{
+    height: 300px;
+    width: 300px;
+}
+#img2{
+    height: 300px;
+    width: 500px;
+}
+#img3{
+    height: 700px;
+    width: 500px;
+}
+#butt1{
+    color: azure;
+    background-color: coral;
+}
+#butt2{
+    color: lime;
+    background-color: dimgray;
+}
+#butt3{
+    color: orange;
+    background-color: orangered;
+}

@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+#p1{
+    background-color: green;
+    height: 100px;
+    width: 500px;
+    color: gray;
+}
+#p2{
+    background-color: chocolate;
+    height: 100px;
+    width: 500px;
+    color: red;
+}
+#p3{
+    background-color: darkgoldenrod;
+    height: 100px;
+    width: 500px;
+    color: blueviolet;
+}
+#p4{
+    background-color: darkorange;
+    height: 100px;
+    width: 500px;
+    color: crimson;
+}
+#p5{
+    background-color: darkorchid;
+    height: 100px;
+    width: 500px;
+    color: brown;
+}
+#p6{
+    background-color: magenta;
+    height: 100px;
+    width: 500px;
+    color: honeydew;
+}
+#p7{
+    background-color: gray;
+    height: 100px;
+    width: 500px;
+    color: gold;
+}
+#p8{
+    background-color: orange;
+    height: 100px;
+    width: 500px;
+    color: chartreuse;
+}
+#p9{
+    background-color: darkblue;
+    height: 100px;
+    width: 500px;
+    color: bisque;
+}
+#p10{
+    background-color: hotpink;
+    height: 100px;
+    width: 500px;
+    color: darkolivegreen;
+}
