@@ -1,0 +1,15 @@
+#p1{
+    text-decoration: overline #ff0000;
+}
+#p2{
+    text-decoration: line-through #00ff00;
+}
+#p3{
+    text-decoration: underline #0000ff; 
+}
+#p4{
+    text-decoration: line-through yellow;
+}
+#p5{
+    text-decoration: underline orange;
+}

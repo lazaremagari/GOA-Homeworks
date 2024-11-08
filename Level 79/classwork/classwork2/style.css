@@ -1,0 +1,28 @@
+#p1{
+    color: green;
+    text-decoration: overline;
+}
+#p2{
+    color: greenyellow;
+    text-decoration: line-through;
+}
+#p3{
+    color: orange;
+    text-decoration: underline;
+}
+#p4{
+    color: red;
+    text-decoration: overline line-through;
+}
+#p5{
+    color: blue;
+    text-decoration: line-through underline;
+}
+#p6{
+    color: yellow;
+    text-decoration: overline underline;
+}
+#p7{
+    color: gray;
+    text-decoration: overline line-through underline wavy;
+}
