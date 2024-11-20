@@ -1,0 +1,27 @@
+#i1::placeholder{
+    color: white;
+    text-shadow: 1px 1px 1px skyblue;
+}
+#i2::placeholder{
+    color: white;
+    text-shadow: 1px 1px 1px skyblue;
+}
+#i3::placeholder{
+    color: white;
+    text-shadow: 1px 1px 1px skyblue;
+}
+#i4::placeholder{
+    color: white;
+    text-shadow: 1px 1px 1px skyblue;
+}
+#i5::placeholder{
+    color: white;
+    text-shadow: 1px 1px 1px skyblue;
+}
+#i6::placeholder{
+    color: white;
+    text-shadow: 1px 1px 1px skyblue;
+}
+body{
+    background-color: black;
+}

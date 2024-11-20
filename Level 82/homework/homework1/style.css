@@ -1,0 +1,16 @@
+h1{
+    color: greenyellow;
+    text-shadow: 1px 1px 1px skyblue;
+}
+h2{
+    color: orangered;
+    text-shadow: 1px 1px 1px blue;
+}
+h3{
+    color: blue;
+    text-shadow: 1px 1px 1px yellow;
+}
+h4{
+    color: bisque;
+    text-shadow: 1px 1px 1px greenyellow;
+}
