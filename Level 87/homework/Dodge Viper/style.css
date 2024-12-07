@@ -1,3 +1,7 @@
 body{
     background-image: url("./download\ \(1\).jfif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }

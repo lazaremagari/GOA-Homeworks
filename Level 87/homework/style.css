@@ -3,6 +3,7 @@ body{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background: url("./2025-Toyota-GR-Supra-001-1080.jpg") no-repeat;
+    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
