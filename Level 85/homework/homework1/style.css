@@ -1,0 +1,20 @@
+.b1{
+    color: greenyellow;
+    background-color: blueviolet;
+}
+.b1:hover{
+    color: green;
+    background-color: black;
+}
+.b1:active{
+    color: greenyellow;
+    background-color: darkred;
+}
+.b2{
+    color: brown;
+    background-color: lightgreen;
+}
+.b2:active{
+    color: goldenrod;
+    background-color: darkblue;
+}
