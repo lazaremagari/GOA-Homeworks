@@ -1,0 +1,12 @@
+#d1{
+    margin: 5px;
+}
+#b1{
+    border: 2px dashed red;
+}
+#b2{
+    border: 2px dotted blue;
+}
+#b3{
+    border: 2px solid green;
+}

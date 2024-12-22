@@ -1,0 +1,28 @@
+.in1{
+    outline: none;
+    border: 1px solid blue;
+}
+.in1::placeholder{
+    color: yellow;
+}
+.in2{
+    outline: none;
+    border: dashed 1px red;
+}
+.in2::placeholder{
+    color: black;
+}
+.in3{
+    outline: none;
+    border: dotted 1px green;
+}
+.in3::placeholder{
+    color: green;
+}
+.in4{
+    outline: none;
+    border: 1px double orange;
+}
+.in4::placeholder{
+    color: black;
+}
