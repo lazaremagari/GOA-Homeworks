@@ -1,0 +1,13 @@
+#pdiv1 #div1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#pdiv1 #div2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#pdiv1{
+    display: flex;
+}
